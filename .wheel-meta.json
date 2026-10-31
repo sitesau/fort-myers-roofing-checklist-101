@@ -1,0 +1,22 @@
+{
+  "wheel_id": 595,
+  "structure": "umbrella",
+  "slug": "fort-myers-roofing-checklist-101",
+  "project": "fort-myers-roofing-council-and-approvals-15c78628efc959c3e36427",
+  "parent_t1_ref": "fort-myers-roofing-checklist-150",
+  "node_role": "feeder",
+  "money_target": "fortmyersroofing.net",
+  "primary_kw": "fort myers roofing council and approvals",
+  "intended_url": "https://sitesau.github.io/fort-myers-roofing-checklist-101/",
+  "tier": "T2",
+  "writeback_nonce": "caa7dd5a8f66a593",
+  "links": [
+    {
+      "target_url": "https://vercel-cloudsites-hub.vercel.app/sites-01/fort-myers-roofing-297b4bb03060e19e0d232d6d80867f22e41c80e0/",
+      "anchor": "Fort Myers Roofing: Project Checklist",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
